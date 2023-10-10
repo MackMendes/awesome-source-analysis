@@ -1,6 +1,6 @@
 # Awesome Source Code Analysis Via Machine Learning Techniques
 
-A list of resources for source code analysis application using Machine Learning techniques (eg, Deep Learning, PCA, SVM, Bayesian, proabilistic models, reinformcement learning techniques etc)
+A list of resources for source code analysis applications using Machine Learning techniques (eg, Deep Learning, PCA, SVM, Bayesian, probabilistic models, reinforcement learning techniques, etc)
 
 Maintainers - [Peter Teoh](https://github.com/tthtlc)
 
@@ -178,3 +178,6 @@ As an extension
 https://ml4code.github.io/ 
 
 (this site being an offshoot of the paper: https://arxiv.org/abs/1709.06182)
+
+A Survey on Machine Learning Techniques for Source Code Analysis
+https://arxiv.org/pdf/2110.09610.pdf
