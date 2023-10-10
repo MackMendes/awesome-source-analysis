@@ -2,7 +2,6 @@
 
 A list of resources for source code analysis applications using Machine Learning techniques (eg, Deep Learning, PCA, SVM, Bayesian, probabilistic models, reinforcement learning techniques, etc)
 
-## Sharing
 ## Table of Contents
 
 Machine-Learning-Guided Selectively Unsound Static Analysis
